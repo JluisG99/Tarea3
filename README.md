@@ -15,4 +15,4 @@ Los datos de observaciones de felinos, fueron obtenidos del (Global Biodiversity
 y la segunda fuente de datos corresponde a las Áreas silvestres protegidas (ASP) de Costa Rica, publicadas por el Sistema Nacional de Áreas de Conservación (Sinac) en el Sistema Nacional de Información Territorial (SNIT)[https://www.snitcr.go.cr/ico_servicios_ogc_info?k=bm9kbzo6NDA=&nombre=SINAC].
 
 ### Visualizacion de los resultados en NBViewer:
-Los resultados obtenidos pueden ser observados a traves del enlace (NBViewer)[https://nbviewer.org/github/JluisG99/Tarea3/blob/44d3cfba6e499a7109c75d105fa92abc640ab18b/Tarea3_JoseGamboa.ipynb]
+Los resultados obtenidos pueden ser observados a traves del enlace [NBViewer](https://nbviewer.org/github/JluisG99/Tarea3/blob/44d3cfba6e499a7109c75d105fa92abc640ab18b/Tarea3_JoseGamboa.ipynb)
